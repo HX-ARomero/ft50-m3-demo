@@ -1,5 +1,7 @@
 # Cohorte FT50 - Módulo 3
 
+## [Métodos de Arrays](./readmes/arrays-metodos.md)
+
 ## Resúmenes de Clases
 
 - [01- TypeScript I](./readmes/m3-01.md)
