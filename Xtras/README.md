@@ -22,3 +22,4 @@
 ## Buenas Prácticas
 
 - [01- Buenas Prácticas](./readmes/good-prac-01.md)
+- [01- Buenas Prácticas](./readmes/good-prac-02.md)
