@@ -1,0 +1,17 @@
+.formulary {
+  text-align: right;
+  background-color: rgba(0, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.formText {
+  font-size: 1.3em;
+  padding: 10px;
+}
+
+.formInput {
+  height: 25px;
+  width: 450px;
+  margin: 15px;
+}
