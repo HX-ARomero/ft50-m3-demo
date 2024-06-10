@@ -3,8 +3,8 @@ import Card from "../components/Card.jsx";
 import { useEffect, useState } from "react";
 import axios from "axios";
 // Traer todos los personajes:
-// const GETALLCHARACTERS_URL = "https://dragonball-api.com/api/characters";
-const GETALLCHARACTERS_URL = "https://dragonball-api.com/api/characters?page=1&limit=5";
+const GETALLCHARACTERS_URL = "https://dragonball-api.com/api/characters";
+// const GETALLCHARACTERS_URL = "https://dragonball-api.com/api/characters?page=1&limit=5";
 
 export default function Home(props) {
   const [allCharacters, setAllCharacters] = useState([]);

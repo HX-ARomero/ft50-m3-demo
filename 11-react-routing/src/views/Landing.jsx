@@ -1,7 +1,14 @@
 import React from "react";
 import styles from "../styles/styles.module.css";
+import { useNavigate } from "react-router-dom";
 
 export default function Landing(props) {
+
+  const navigate = useNavigate();
+  const handleClick = () => {
+    navigate("/home");
+  }
+
   return (
     <div className={styles.container}>
       <h1>Dragon Ball APP</h1>
@@ -10,7 +17,7 @@ export default function Landing(props) {
         alt="Dragon Ball APP"
       />
       <br />
-      <span>Ingresar...</span>
+      <span onClick={handleClick}>Ingresar...</span>
     </div>
   );
 }
