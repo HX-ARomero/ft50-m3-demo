@@ -27,4 +27,5 @@
 - [04- Buenas Prácticas](./readmes/good-prac-04.md)
 - [05- Buenas Prácticas](./readmes/good-prac-05.md)
 - [06- Buenas Prácticas](./readmes/good-prac-05.md)
+- [07- Buenas Prácticas](./readmes/good-prac-07.md)
 - [10- Buenas Prácticas](./readmes/good-prac-10.md)
